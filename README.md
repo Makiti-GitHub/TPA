@@ -9,7 +9,7 @@ can be booked.
 In terms of software architecture, a front end in Javascript is being considered, which uses a
 REST API with
 communicated to a backend.
-1. REST API design (Spring Boot Java / NodeJs)
+1. REST API design (Spring Boot Java (Senior/Junior) / NodeJs(Junior))
 Design a REST API that maps the following frontend functionalities
 can:
 • Overview of all training courses offered (name of the training course, description, name
