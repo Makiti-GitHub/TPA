@@ -9,7 +9,7 @@ can be booked.
 In terms of software architecture, a front end in Javascript is being considered, which uses a
 REST API with
 communicated to a backend.
-1. REST API design
+1. REST API design (Spring Boot Java / NodeJs)
 Design a REST API that maps the following frontend functionalities
 can:
 • Overview of all training courses offered (name of the training course, description, name
@@ -27,7 +27,7 @@ tests for the API. Set at least one reading and one modifying REST call
 around. Make a sensible choice of the functionalities mentioned above in order to understand the
 principle of to show implementation. It is not necessary to implement all of the above
 functionality. The data does not have to be persisted beyond the termination of the application.
-3. Implementation client side
+3. Implementation client side ( React / Angular)
 Create a client in a frontend technology of your choice, with which a bis two REST calls can be
 made. This task is not about a graphical one chic UI, but a PoC of the interaction between client
 and server.
